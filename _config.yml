@@ -1,0 +1,14 @@
+layout_spectrum: 0.2956989
+color:
+  saturation: 0.8172043
+  brandStrength: 0.7185139
+  lightness: 0.3207885
+  rhythmicContrast: 0.7007169
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.4928315
+name: Geekest-Link
